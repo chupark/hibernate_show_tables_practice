@@ -20,7 +20,7 @@
 1. mapping/TB_Board
 - TB_Board 엔티티와 매핑
 <br>
-2. mapping/UserInfo
+  2. mapping/UserInfo
 - UserInfo 엔티티와 매핑
 
 
