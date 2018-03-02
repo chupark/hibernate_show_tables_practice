@@ -3,6 +3,5 @@
 
 ## Controller role
 
-# BoardController
-  
-  It can make access
+  1. BoardController
+    -DB 
